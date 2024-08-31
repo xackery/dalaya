@@ -1,0 +1,34 @@
+{{ $icon := "xa-dragon" }}
+{{ $id := .Get "id" }} {{ $link := .Get "link" }}
+<span npc-id='{{ $id }}'>
+    <i class="npclink xa {{ $icon }}"></i>
+    <span class="npcinfo">
+        <b>{{ .Get "name" }}</b><br>
+        {{ $data := dict }}
+        {{ $path := add (lower .Page.Type) "/" .Page.File.BaseFileName "-npcs.yaml" }}
+        {{ with resources.Get $path }}
+            {{ with . | transform.Unmarshal }}
+            {{ $data = . }}
+            {{ end }}
+        {{ else }}
+            {{ $path = "npcs.yaml" }}
+            {{ with resources.Get $path }}
+                {{ with . | transform.Unmarshal }}
+                {{ $data = . }}
+                {{ end }}
+            {{ else }}
+                {{ errorf "Unable to get page resource %q" $path }}
+            {{ end }}
+        {{ end }}
+
+        {{ $npcList := index $data $id }}
+
+        {{ if $npcList }}
+            {{ range $npcList }}
+                {{ . | safeHTML }}<br>
+            {{ end }}
+        {{ else }}
+            No npc data found for Type: {{ lower .Page.Type }}, id: {{ $id }}.
+        {{ end }}
+    </span>
+</span> {{ if $link }}<a href="{{ $link }} ">{{ .Get "name" }}</a>{{ else }}{{ .Get "name" }}{{ end }}

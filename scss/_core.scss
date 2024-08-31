@@ -1,0 +1,109 @@
+// Base Class Definition
+// -------------------------
+$xa-css-prefix:       xa !default;
+
+.#{$xa-css-prefix} {
+  font-family: tpe-awesome;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  speak: none;
+  text-transform: none;
+}
+
+.iteminfo {
+  display: none;
+  .user-select-none {
+    user-select: none;
+  }
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  //border-radius: 10px;
+  min-width: 200px;
+  padding: 5px;
+}
+
+.iteminfo table {
+  font-family: arial, helvetica;
+  font-weight: normal;
+  font-size: 10pt;
+  text-align: inherit;
+  vertical-align: top;
+  margin: 0px;
+  padding: 0px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none;
+  overflow: hidden;
+}
+
+.iteminfo td {
+  padding: 0px !important;
+  margin: 0px !important;
+  border: none;
+}
+
+.iteminfo table tr {
+  padding: 0px !important;
+  margin: 0px !important;
+  border: none;
+
+}
+
+.itemlink {
+  color: #58a6ff;
+}
+
+.itemlink:hover + .iteminfo {
+  display: block
+}
+
+.npclink {
+  color: #58a6ff;
+}
+
+.npcinfo {
+  display: none;
+  .user-select-none {
+    user-select: none;
+  }
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  //border-radius: 10px;
+  padding: none;
+}
+
+.npclink:hover + .npcinfo {
+  display: block
+}
+
+.spelllink {
+  color: #58a6ff;
+}
+
+.spellinfo {
+  display: none;
+  .user-select-none {
+    user-select: none;
+  }
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  //border-radius: 10px;
+  padding: none;
+}
+
+.spelllink:hover + .spellinfo {
+  display: block
+}

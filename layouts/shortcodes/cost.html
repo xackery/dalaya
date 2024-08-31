@@ -1,0 +1,20 @@
+{{- $amount := .Get "amount" | int -}}
+{{- $platinum := div $amount 1000 -}}
+{{- $remainder := mod $amount 1000 -}}
+{{- $gold := div $remainder 100 -}}
+{{- $remainder := mod $remainder 100 -}}
+{{- $silver := div $remainder 10 -}}
+{{- $copper := mod $remainder 10 -}}
+
+{{- if gt $platinum 0 -}}
+    {{- printf "%dp" $platinum -}}
+{{- end -}}
+{{- if gt $gold 0 -}}
+    {{- printf "%dg" $gold -}}
+{{- end -}}
+{{- if gt $silver 0 -}}
+    {{- printf "%ds" $silver -}}
+{{- end -}}
+{{- if gt $copper 0 -}}
+    {{- printf "%dc" $copper -}}
+{{- end -}}

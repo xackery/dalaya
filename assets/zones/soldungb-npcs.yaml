@@ -1,0 +1,897 @@
+32000: 
+  - |
+    <p>Name: fire_giant_warrior</p>
+    <p>Level: 51</p>
+    <p>Race: Giant</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 13750</p>
+    <p>Damage: 28 to 161</p>
+    <p>Attack speed: 116%</p>
+    <p>Special attacks: Unstunnable</p>
+
+     
+
+
+     
+        <p>soldungb_1 (6098) Nagafen's Lair ({soldungb true}) -624, -1117, 34.25 18000 </p>
+    
+        <p>soldungb_34 (4557) Nagafen's Lair ({soldungb true}) -472, -1237, 25.25 18000 </p>
+    
+        <p>soldungb_38 (4561) Nagafen's Lair ({soldungb true}) -364.25, -1312, 6.25 18000 </p>
+    
+        <p>soldungb_40 (4552) Nagafen's Lair ({soldungb true}) -332, -1580, 36.25 18000 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+    
+32001: 
+  - |
+    <p>Name: a_greater_kobold</p>
+    <p>Level: 32</p>
+    <p>Race: Kobold</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 1344</p>
+    <p>Damage: 13 to 68</p>
+    <p>Attack speed: 107%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_2 (4556) Nagafen's Lair ({soldungb true}) -356, -533, -58 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32003: 
+  - |
+    <p>Name: greater_kobold</p>
+    <p>Level: 35</p>
+    <p>Race: Kobold</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 1575</p>
+    <p>Damage: 14 to 74</p>
+    <p>Attack speed: 108%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_4 (4558) Nagafen's Lair ({soldungb true}) -144.75, -455.63, -103.5 640 </p>
+    
+        <p>soldungb_4 (4558) Nagafen's Lair ({soldungb true}) -432.13, -253.75, 4.38 640 </p>
+    
+        <p>soldungb_6 (4554) Nagafen's Lair ({soldungb true}) -210, -474, -106.5 640 </p>
+    
+        <p>soldungb_7 (4590) Nagafen's Lair ({soldungb true}) -224, -581, -72.13 640 </p>
+    
+        <p>soldungb_13 (4584) Nagafen's Lair ({soldungb true}) -272, -647, -80.5 640 </p>
+    
+        <p>soldungb_15 (4582) Nagafen's Lair ({soldungb true}) -179, -595, -89.5 640 </p>
+    
+        <p>soldungb_54 (6680) Nagafen's Lair ({soldungb true}) -531, -223, 22.38 640 </p>
+    
+        <p>soldungb_55 (6681) Nagafen's Lair ({soldungb true}) -526, -201, 22.38 640 </p>
+    
+        <p>soldungb_56 (6682) Nagafen's Lair ({soldungb true}) -367, -124, -5.5 640 </p>
+    
+        <p>soldungb_56 (6682) Nagafen's Lair ({soldungb true}) -110, -569, -89.5 640 </p>
+    
+        <p>soldungb_56 (6682) Nagafen's Lair ({soldungb true}) -235, -490, -108.5 640 </p>
+    
+        <p>soldungb_56 (6682) Nagafen's Lair ({soldungb true}) -449, -214, -1.5 640 </p>
+    
+        <p>soldungb_58 (6684) Nagafen's Lair ({soldungb true}) -537, -143, 3.38 640 </p>
+    
+        <p>soldungb_59 (6685) Nagafen's Lair ({soldungb true}) -462, -321, -60.5 640 </p>
+    
+        <p>soldungb_59 (6685) Nagafen's Lair ({soldungb true}) -432, -174, 3 640 </p>
+    
+        <p>soldungb_59 (6685) Nagafen's Lair ({soldungb true}) -446, -228, -1.5 640 </p>
+    
+        <p>soldungb_59 (6685) Nagafen's Lair ({soldungb true}) -385, -276, -38.5 640 </p>
+    
+        <p>soldungb_59 (6685) Nagafen's Lair ({soldungb true}) -519, -134, 3.38 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32007: 
+  - |
+    <p>Name: Solusek_kobold</p>
+    <p>Level: 38</p>
+    <p>Race: Kobold</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 2100</p>
+    <p>Damage: 15 to 80</p>
+    <p>Attack speed: 108%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_10 (4587) Nagafen's Lair ({soldungb true}) -108, -557, -89.5 640 </p>
+    
+        <p>soldungb_17 (4580) Nagafen's Lair ({soldungb true}) -327, -553, -59.5 640 </p>
+    
+        <p>soldungb_18 (4579) Nagafen's Lair ({soldungb true}) -362, -549, -59.5 640 </p>
+    
+        <p>soldungb_21 (4576) Nagafen's Lair ({soldungb true}) -345, -652, -65.5 640 </p>
+    
+        <p>soldungb_24 (4573) Nagafen's Lair ({soldungb true}) -305, -656, -65.5 640 </p>
+    
+        <p>soldungb_26 (4571) Nagafen's Lair ({soldungb true}) -303, -587, -69 640 </p>
+    
+        <p>soldungb_27 (4570) Nagafen's Lair ({soldungb true}) -322, -590, -70.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32010: 
+  - |
+    <p>Name: a_kobold_advisor</p>
+    <p>Level: 40</p>
+    <p>Race: Kobold</p>
+    <p>Class: Shaman</p>
+    <p>Health points: 2000</p>
+    <p>Damage: 32 to 124</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_22 (4575) Nagafen's Lair ({soldungb true}) -355, -638, -64.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default  Pet  Shaman List true} - Internal Server Error
+32011: 
+  - |
+    <p>Name: greater_kobold_shaman</p>
+    <p>Level: 33</p>
+    <p>Race: Kobold</p>
+    <p>Class: Shaman</p>
+    <p>Health points: 1419</p>
+    <p>Damage: 13 to 70</p>
+    <p>Attack speed: 107%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_6 (4554) Nagafen's Lair ({soldungb true}) -210, -474, -106.5 640 </p>
+    
+        <p>soldungb_8 (4589) Nagafen's Lair ({soldungb true}) -375, -464, -83.5 640 </p>
+    
+        <p>soldungb_12 (4585) Nagafen's Lair ({soldungb true}) -162, -498, -102.38 640 </p>
+    
+        <p>soldungb_13 (4584) Nagafen's Lair ({soldungb true}) -272, -647, -80.5 640 </p>
+    
+        <p>soldungb_25 (4572) Nagafen's Lair ({soldungb true}) -270, -506, -74.5 640 </p>
+    
+        <p>soldungb_54 (6680) Nagafen's Lair ({soldungb true}) -531, -223, 22.38 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default Shaman List true} - Internal Server Error
+32013: 
+  - |
+    <p>Name: sonic_bat</p>
+    <p>Level: 40</p>
+    <p>Race: Bat</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 3210</p>
+    <p>Damage: 21 to 78</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_28 (4569) Nagafen's Lair ({soldungb true}) -217.5, -676.13, -80.63 640 </p>
+    
+        <p>soldungb_28 (4569) Nagafen's Lair ({soldungb true}) -144, -655, -83.63 640 </p>
+    
+        <p>soldungb_31 (4566) Nagafen's Lair ({soldungb true}) -237, -698, -67.63 640 </p>
+    
+        <p>soldungb_53 (6679) Nagafen's Lair ({soldungb true}) -208, -751, -67.63 640 </p>
+    
+        <p>soldungb_82 (6708) Nagafen's Lair ({soldungb true}) -30, -688, -104.75 640 </p>
+    
+        <p>soldungb-Overseer_of_Air00 (3375) Nagafen's Lair ({soldungb true}) -61.48, -651.8, -104.22 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{sonic_bat true} - Internal Server Error
+32014: 
+  - |
+    <p>Name: lava_beetle</p>
+    <p>Level: 42</p>
+    <p>Race: Beetle</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 3210</p>
+    <p>Damage: 21 to 78</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_29 (4568) Nagafen's Lair ({soldungb true}) -399, -892, -49.88 640 </p>
+    
+        <p>soldungb_46 (6672) Nagafen's Lair ({soldungb true}) -131, -714, -91.75 640 </p>
+    
+        <p>soldungb_52 (6678) Nagafen's Lair ({soldungb true}) -140, -712, -78 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{lava_beetle true} - Internal Server Error
+32015: 
+  - |
+    <p>Name: noxious_spider</p>
+    <p>Level: 45</p>
+    <p>Race: Spider</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 5246</p>
+    <p>Damage: 47 to 123</p>
+    <p>Attack speed: 110%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_30 (4567) Nagafen's Lair ({soldungb true}) -236.25, -761.38, -75 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{noxious_spider true} - Internal Server Error
+32020: 
+  - |
+    <p>Name: Warlord_Skarlon</p>
+    <p>Level: 53</p>
+    <p>Race: Giant</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 19138</p>
+    <p>Damage: 77 to 213</p>
+    <p>Attack speed: 116%</p>
+    <p>Special attacks: Unstunnable</p>
+
+     
+
+
+     
+        <p>soldungb_37 (4562) Nagafen's Lair ({soldungb true}) -359, -1451, 36.25 18000 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+    
+32022: 
+  - |
+    <p>Name: King_Tranix</p>
+    <p>Level: 52</p>
+    <p>Race: Giant</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 16250</p>
+    <p>Damage: 76 to 210</p>
+    <p>Attack speed: 116%</p>
+    <p>Special attacks: Unstunnable</p>
+
+     
+
+
+     
+        <p>soldungb_42 (6668) Nagafen's Lair ({soldungb true}) -385, -1552, 36.25 4800 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+     
+        <p>{King_Tranix true} - Internal Server Error
+32027: 
+  - |
+    <p>Name: lava_duct_crawler</p>
+    <p>Level: 44</p>
+    <p>Race: Spider</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 5246</p>
+    <p>Damage: 5 to 81</p>
+    <p>Attack speed: 110%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_61 (6687) Nagafen's Lair ({soldungb true}) -336.38, -975.13, -56.38 640 </p>
+    
+        <p>soldungb_61 (6687) Nagafen's Lair ({soldungb true}) -311, -987, -83 640 </p>
+    
+        <p>soldungb_62 (6688) Nagafen's Lair ({soldungb true}) -278.13, -939.13, -83 640 </p>
+    
+        <p>soldungb_68 (6694) Nagafen's Lair ({soldungb true}) -173, -877, -79 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{Lava Duct Crawlers true} - Internal Server Error
+32030: 
+  - |
+    <p>Name: lava_guardian</p>
+    <p>Level: 46</p>
+    <p>Race: Elemental</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 5226</p>
+    <p>Damage: 24 to 100</p>
+    <p>Attack speed: 110%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_69 (6695) Nagafen's Lair ({soldungb true}) 143.25, -527.13, -75.75 640 </p>
+    
+        <p>soldungb_76 (6702) Nagafen's Lair ({soldungb true}) 134, -668, -82.75 640 </p>
+    
+        <p>soldungb_77 (6703) Nagafen's Lair ({soldungb true}) 114, -651, -82.75 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{lava_guardian true} - Internal Server Error
+32032: 
+  - |
+    <p>Name: imp_protector</p>
+    <p>Level: 46</p>
+    <p>Race: Imp</p>
+    <p>Class: Rogue</p>
+    <p>Health points: 6486</p>
+    <p>Damage: 44 to 120</p>
+    <p>Attack speed: 110%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_70 (6696) Nagafen's Lair ({soldungb true}) 321, -482, -80.75 640 </p>
+    
+        <p>soldungb_73 (6699) Nagafen's Lair ({soldungb true}) 267, -536, -72.75 640 </p>
+    
+        <p>soldungb_76 (6702) Nagafen's Lair ({soldungb true}) 134, -668, -82.75 640 </p>
+    
+        <p>soldungb_77 (6703) Nagafen's Lair ({soldungb true}) 114, -651, -82.75 640 </p>
+    
+        <p>soldungb_79 (6705) Nagafen's Lair ({soldungb true}) 82, -791, -103.75 640 </p>
+    
+        <p>soldungb_81 (6707) Nagafen's Lair ({soldungb true}) 253, -685, -78.75 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{Drybones FIRE DD true} - Internal Server Error
+32040: 
+  - |
+    <p>Name: Lord_Nagafen</p>
+    <p>Level: 55</p>
+    <p>Race: Dragon</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 32000</p>
+    <p>Damage: 85 to 218</p>
+    <p>Attack speed: 117%</p>
+    <p>Special attacks: Summon, Enrage, Quadruple Attack, Unmezzable, Uncharmable, Unstunnable, Unfearable</p>
+
+     
+
+
+     
+        <p>soldungb_86 (6712) Nagafen's Lair ({soldungb true}) -871, -1395, 104.88 259200 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+     
+        <p>{Lord Nagafen Procs true} - Internal Server Error
+32041: 
+  - |
+    <p>Name: Magus_Rokyl</p>
+    <p>Level: 51</p>
+    <p>Race: Giant</p>
+    <p>Class: Wizard</p>
+    <p>Health points: 8641</p>
+    <p>Damage: 78 to 230</p>
+    <p>Attack speed: 116%</p>
+    <p>Special attacks: Unstunnable</p>
+
+     
+
+
+     
+        <p>soldungb_87 (6713) Nagafen's Lair ({soldungb true}) -824.5, -1448.13, 91.63 18000 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+     
+        <p>{Default Wizard List true} - Internal Server Error
+32043: 
+  - |
+    <p>Name: a_kobold_guardian</p>
+    <p>Level: 40</p>
+    <p>Race: Kobold</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 2000</p>
+    <p>Damage: 32 to 124</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_89 (6715) Nagafen's Lair ({soldungb true}) -270, -538, -69.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32044: 
+  - |
+    <p>Name: Solusek_kobold_shaman</p>
+    <p>Level: 38</p>
+    <p>Race: Kobold</p>
+    <p>Class: Shaman</p>
+    <p>Health points: 1824</p>
+    <p>Damage: 15 to 80</p>
+    <p>Attack speed: 108%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_18 (4579) Nagafen's Lair ({soldungb true}) -362, -549, -59.5 640 </p>
+    
+        <p>soldungb_26 (4571) Nagafen's Lair ({soldungb true}) -303, -587, -69 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default  Pet  Shaman List true} - Internal Server Error
+32045: 
+  - |
+    <p>Name: kobold_champion</p>
+    <p>Level: 39</p>
+    <p>Race: Kobold</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 1911</p>
+    <p>Damage: 16 to 82</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_21 (4576) Nagafen's Lair ({soldungb true}) -345, -652, -65.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32049: 
+  - |
+    <p>Name: fire_giant_wizard</p>
+    <p>Level: 48</p>
+    <p>Race: Giant</p>
+    <p>Class: Wizard</p>
+    <p>Health points: 8000</p>
+    <p>Damage: 74 to 150</p>
+    <p>Attack speed: 111%</p>
+    <p>Special attacks: Unstunnable</p>
+
+     
+
+
+     
+        <p>soldungb_90 (6716) Nagafen's Lair ({soldungb true}) -285.88, -1459.13, 36.25 18000 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=319">Vox</a> -1</p>
+    
+        <p><a href="/faction/view?id=249">Nagafen</a> -12</p>
+    
+
+    
+
+    
+     
+        <p>{Default Wizard List true} - Internal Server Error
+32057: 
+  - |
+    <p>Name: stone_spider</p>
+    <p>Level: 46</p>
+    <p>Race: Spider</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 5875</p>
+    <p>Damage: 49 to 144</p>
+    <p>Attack speed: 110%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_63 (6689) Nagafen's Lair ({soldungb true}) -346, -1002, -83 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 10</p>
+    
+
+    
+
+    
+     
+        <p>{stone_spider true} - Internal Server Error
+32059: 
+  - |
+    <p>Name: kobold_priest</p>
+    <p>Level: 40</p>
+    <p>Race: Kobold</p>
+    <p>Class: Cleric</p>
+    <p>Health points: 2000</p>
+    <p>Damage: 32 to 124</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_27 (4570) Nagafen's Lair ({soldungb true}) -322, -590, -70.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default Cleric List true} - Internal Server Error
+32062: 
+  - |
+    <p>Name: Efreeti_Lord_Djarn</p>
+    <p>Level: 50</p>
+    <p>Race: Efreeti</p>
+    <p>Class: Wizard</p>
+    <p>Health points: 10380</p>
+    <p>Damage: 74 to 204</p>
+    <p>Attack speed: 115%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_70 (6696) Nagafen's Lair ({soldungb true}) 321, -482, -80.75 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{Default Wizard List true} - Internal Server Error
+32063: 
+  - |
+    <p>Name: kobold_noble</p>
+    <p>Level: 38</p>
+    <p>Race: Kobold</p>
+    <p>Class: Enchanter</p>
+    <p>Health points: 1824</p>
+    <p>Damage: 15 to 80</p>
+    <p>Attack speed: 108%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_10 (4587) Nagafen's Lair ({soldungb true}) -108, -557, -89.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default  Pet  Enchanter List true} - Internal Server Error
+32066: 
+  - |
+    <p>Name: Solusek_kobold_king</p>
+    <p>Level: 42</p>
+    <p>Race: Kobold</p>
+    <p>Class: Shadow Knight</p>
+    <p>Health points: 4200</p>
+    <p>Damage: 42 to 118</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_18 (4579) Nagafen's Lair ({soldungb true}) -362, -549, -59.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+     
+        <p>{Default  Pet  Shadowknight List true} - Internal Server Error
+32067: 
+  - |
+    <p>Name: Targin_the_Rock</p>
+    <p>Level: 39</p>
+    <p>Race: Human</p>
+    <p>Class: Monk</p>
+    <p>Health points: 2150</p>
+    <p>Damage: 64 to 104</p>
+    <p>Attack speed: 120%</p>
+    <p>Special attacks: Summon</p>
+
+     
+
+
+     
+        <p>soldungb_19 (4578) Nagafen's Lair ({soldungb true}) -345, -533, -59.5 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=323">Solusek Mining Co.</a> 1</p>
+    
+        <p><a href="/faction/view?id=282">Kobolds of Fire Pit</a> -3</p>
+    
+
+    
+
+    
+    
+32068: 
+  - |
+    <p>Name: guano_harvester</p>
+    <p>Level: 17</p>
+    <p>Race: Goblin</p>
+    <p>Class: Wizard</p>
+    <p>Health points: 466</p>
+    <p>Damage: 12 to 60</p>
+    <p>Attack speed: 100%</p>
+    
+
+     
+
+
+     
+        <p>soldungb-Overseer_of_Air00 (3375) Nagafen's Lair ({soldungb true}) -61.48, -651.8, -104.22 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+     
+        <p>{guano_harvester true} - Internal Server Error
+32083: 
+  - |
+    <p>Name: death_beetle</p>
+    <p>Level: 40</p>
+    <p>Race: Beetle</p>
+    <p>Class: Warrior</p>
+    <p>Health points: 2000</p>
+    <p>Damage: 32 to 124</p>
+    <p>Attack speed: 109%</p>
+    
+
+     
+
+
+     
+        <p>soldungb_29 (4568) Nagafen's Lair ({soldungb true}) -399, -892, -49.88 640 </p>
+    
+        <p>soldungb_46 (6672) Nagafen's Lair ({soldungb true}) -131, -714, -91.75 640 </p>
+    
+        <p>soldungb_52 (6678) Nagafen's Lair ({soldungb true}) -140, -712, -78 640 </p>
+    
+
+     
+        <p><a href="/faction/view?id=5013">KOS</a> 0</p>
+    
+
+    
+
+    
+    

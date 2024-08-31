@@ -1,0 +1,280 @@
+8160:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-6321"></i><h4 style="margin-top:0;display:inline">Cheese</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>5</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+8194:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-1020"></i><h4 style="margin-top:0;display:inline">Patty Melt</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>1</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+            <r><td><b>Used in Quests:</b><br>
+            
+                <a href="/quest/view?id=1634">Quest Chef Brargus</a> - Chef Brargus in The Jaggedpine Forest<br>
+13015:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-537"></i><h4 style="margin-top:0;display:inline">Loaf of Bread</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>5</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+13019:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-775"></i><h4 style="margin-top:0;display:inline">Fresh Fish</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>10</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+            <r><td><b>Used in Quests:</b><br>
+            
+                <a href="/quest/view?id=3667">Quest Dar Collector Reokar</a> - Dar Collector Reokar in The Rathe Mountains<br>
+13068:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-791"></i><h4 style="margin-top:0;display:inline">Bat Wing</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+            <r><td><b>Used in Quests:</b><br>
+            
+                <a href="/quest/view?id=905">Quest Niola Impholder</a> - Niola Impholder in Southern Felwithe<br>
+                <a href="/quest/view?id=2425">Quest Coriante Verisue</a> - Coriante Verisue in Paineel<br>
+                <a href="/quest/view?id=3511">Quest Unsar Koldhagon</a> - Unsar Koldhagon in South Qeynos<br>
+13404:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-817"></i><h4 style="margin-top:0;display:inline">Bear Meat</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>10</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+13475:
+  - |
+    <table width="500px">
+        <tr><td><i class="item-1021"></i><h4 style="margin-top:0;display:inline">Fish Rolls</h4></td></tr>
+        <table width="500px" cellpadding="0" cellspacing="0">
+            <tr> <td colspan="2" nowrap="1"></td></tr><tr><td colspan="2"><b>Class: </b>ALL</td></tr><tr><td colspan="2"><b>Race: </b>ALL</td></tr><tr><td colspan="2"><b>NONE</b></td></tr>
+        </table>
+        <br>
+        <table>
+            <tr valign="top"><td>
+            <table style="width: 99%">
+                <tr><td><b>Size: </b></td><td style="text-align:right">SMALL</td></tr><tr><td><b>Weight:</b></td><td style='text-align:right'>1</td></tr>
+                    <tr><td><b>Item Type: </b></td><td>Inventory
+                 (stackable)
+                </td></tr>
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td><td>
+            <table style="width: 99%">
+            </table>
+        </td></tr><tr><td colspan="2">&nbsp;</td></td>
+        <tr valign="top"><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+            </table>
+        </td><td>
+            <table style="width:100%">
+                </td></tr>
+            </table>
+        </td></tr>
+        </table>
+    <br>
+    <td><td>&nbsp;</td><td></tr>
+    </table>
+            <r><td><b>Used in Quests:</b><br>
+            
+                <a href="/quest/view?id=221">Quest Aediles Thrall</a> - Aediles Thrall in The Bazaar<br>

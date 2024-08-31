@@ -1,0 +1,59 @@
+baseURL = "/"
+languageCode = "en-us"
+disablePathToLower = true
+enableGitInfo = true
+theme = "amethyst"
+
+# [markup.goldmark.renderer]
+# unsafe= true
+
+[params]
+title = "Dalaya"
+description = "dalaya.web.app"
+enableFooter = false
+enableGitHubEdit = true
+gitHubLink = "https://github.com/xackery/dalaya"
+# bookSearchExclude = ?
+# bookServiceWorker = ?
+# bookCollapseSection = ?
+# bookComments = ?
+# bookCommitPath = ?
+# bookDateFormat = ?
+bookEditPath = true
+# bookFlatSection = ?
+# bookHref = ?
+# bookLogo = ?
+# bookMenuBundle = ?
+# bookRepo = ?
+bookSearch = false
+# bookSection = ?
+# bookServiceWorker = ?
+# bookTheme = ?
+# bookToC = ?
+# bookTranslatedOnly = ?
+# class = ?
+# contentDir = "/content"
+enableCallouts = true
+# enableCodeBlockCopy = ?
+# enableCodeBlockTitle = ?
+# enableContextualBacklinks = ?
+enableSemanticSearch = false
+enableLatex = false
+enableLinkPreview = true
+# enableSPA = ?
+# favicon = ?
+# image = ?
+# links = ?
+# name = ?
+# search = ?
+# enableToc = ?
+
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0

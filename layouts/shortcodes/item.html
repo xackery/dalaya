@@ -1,0 +1,24 @@
+{{ $icon := "" }}{{ if .Get "icon"}}{{ $icon = .Get "icon" }}{{ else }}{{ $icon = "xa-round-bottom-flask" }}{{ end }}
+{{ $id := .Get "id" }} {{ $link := .Get "link" }}
+<span item-id="{{ $id }}">
+    <i class="itemlink xa {{ $icon }}"></i>
+    <span class="iteminfo">
+        {{ $data := dict }}
+        {{ $path := add (lower .Page.Type) "/" (lower .Page.File.BaseFileName) "-items.yaml" }}
+        {{ with resources.Get $path }}
+            {{ with . | transform.Unmarshal }}
+            {{ $data = . }}
+            {{ end }}
+        {{ end }}
+
+        {{ $itemList := index $data $id }}
+
+        {{ if $itemList }}
+            {{ range $itemList }}
+                {{ . | safeHTML }}<br>
+            {{ end }}
+        {{ else }}
+            No item data found for {{ $path }}, id: {{ $id }}.
+        {{ end }}
+    </span>
+</span> {{ if $link }}<a href="{{ $link }} ">{{ .Get "name" }}</a>{{ else }}{{ .Get "name" }}{{ end }}
